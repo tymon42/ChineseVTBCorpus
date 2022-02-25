@@ -1,7 +1,7 @@
 # Chinese VTB Corpus  
 # 中文虚拟主播观众弹幕语料库  
 ## 收录范围：  
-### 2020 年 2 月至 2021 年 1 月 31 日  
+### 2020 年 2 月起，更新中
 ## 数据来源：  
 ### [matsuri.icu](https://matsuri.icu/)(by [brainbush](https://github.com/brainbush))  
 > [前端项目 GitHub 指路](https://github.com/brainbush/matsuri.icu)  
