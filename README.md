@@ -1,5 +1,6 @@
 # Chinese VTB Corpus  
-# 中文虚拟主播观众弹幕语料库  
+# 中文虚拟主播观众弹幕语料库 
+![Alt](https://repobeats.axiom.co/api/embed/05cfdb51d8ff732e020e7752e1981b6f0ba98d81.svg "Repobeats analytics image")
 ## 收录范围：  
 ### 2020 年 2 月起，更新中
 ## 数据来源：  
